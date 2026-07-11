@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="340" viewBox="0 0 980 340" role="img" aria-label="GitHub productivity dashboard">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="980" height="340" rx="28" fill="url(#bg)"/>
+  <rect x="28" y="28" width="924" height="284" rx="24" fill="#020617" opacity="0.42" stroke="#334155"/>
+  <rect x="52" y="62" width="320" height="8" rx="4" fill="url(#accent)"/>
+  <text x="52" y="48" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">RazordousJR GitHub Productivity</text>
+  <text x="52" y="98" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Research coding, documentation, validation, PR tracking, and manuscript workflow.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="52" y="128" width="198" height="126" rx="20" fill="#111827" stroke="#1f2937"/>
+    <text x="78" y="168" fill="#60a5fa" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800">24</text>
+    <text x="78" y="199" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Repositories</text>
+    <text x="78" y="226" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13">public + private workspace</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="272" y="128" width="198" height="126" rx="20" fill="#111827" stroke="#1f2937"/>
+    <text x="298" y="168" fill="#34d399" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800">4</text>
+    <text x="298" y="199" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Public Repos</text>
+    <text x="298" y="226" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13">selected visible work</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="492" y="128" width="198" height="126" rx="20" fill="#111827" stroke="#1f2937"/>
+    <text x="518" y="168" fill="#c084fc" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800">163+</text>
+    <text x="518" y="199" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Contributions</text>
+    <text x="518" y="226" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13">tracked activity signal</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="712" y="128" width="198" height="126" rx="20" fill="#111827" stroke="#1f2937"/>
+    <text x="738" y="168" fill="#facc15" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800">3+</text>
+    <text x="738" y="199" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Research Tracks</text>
+    <text x="738" y="226" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13">graphics, collision, crowd</text>
+  </g>
+
+  <text x="52" y="292" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Focus: Computer Graphics · Collision Detection · Crowd Simulation · Visibility Culling · Agentic AI</text>
+</svg>
