@@ -45,22 +45,21 @@ Beyond code and research, I also enjoy running, gaming, teaching, mentoring stud
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RazordousJR&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazordousJR&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="assets/github-productivity.svg" alt="GitHub productivity dashboard" width="100%" />
 
-<br />
+<br /><br />
 
-<img src="https://streak-stats.demolab.com?user=RazordousJR&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=RazordousJR&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
 ---
 
-## GitHub Trophy Wall
+## Research Productivity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RazordousJR&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
+<img src="assets/research-productivity.svg" alt="Research productivity board" width="100%" />
 
 </div>
 
@@ -70,7 +69,7 @@ Beyond code and research, I also enjoy running, gaming, teaching, mentoring stud
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RazordousJR/RazordousJR/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
 
 </div>
 
